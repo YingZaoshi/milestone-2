@@ -1,0 +1,5 @@
+shared_project/controller
+/home/robot/dd2419_ws/devel/.private/controller/cmake.lock /home/robot/dd2419_ws/devel/./cmake.lock
+/home/robot/dd2419_ws/devel/.private/controller/share/controller/cmake/controllerConfig.cmake /home/robot/dd2419_ws/devel/share/controller/cmake/controllerConfig.cmake
+/home/robot/dd2419_ws/devel/.private/controller/share/controller/cmake/controllerConfig-version.cmake /home/robot/dd2419_ws/devel/share/controller/cmake/controllerConfig-version.cmake
+/home/robot/dd2419_ws/devel/.private/controller/lib/pkgconfig/controller.pc /home/robot/dd2419_ws/devel/lib/pkgconfig/controller.pc

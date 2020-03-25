@@ -1,0 +1,5 @@
+shared_project/milestone1
+/home/robot/dd2419_ws/devel/.private/milestone1/cmake.lock /home/robot/dd2419_ws/devel/./cmake.lock
+/home/robot/dd2419_ws/devel/.private/milestone1/share/milestone1/cmake/milestone1Config.cmake /home/robot/dd2419_ws/devel/share/milestone1/cmake/milestone1Config.cmake
+/home/robot/dd2419_ws/devel/.private/milestone1/share/milestone1/cmake/milestone1Config-version.cmake /home/robot/dd2419_ws/devel/share/milestone1/cmake/milestone1Config-version.cmake
+/home/robot/dd2419_ws/devel/.private/milestone1/lib/pkgconfig/milestone1.pc /home/robot/dd2419_ws/devel/lib/pkgconfig/milestone1.pc

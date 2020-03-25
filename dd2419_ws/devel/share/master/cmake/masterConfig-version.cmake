@@ -1,0 +1,1 @@
+/home/robot/dd2419_ws/devel/.private/master/share/master/cmake/masterConfig-version.cmake

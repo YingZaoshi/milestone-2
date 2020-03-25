@@ -1,0 +1,5 @@
+shared_project/master
+/home/robot/dd2419_ws/devel/.private/master/cmake.lock /home/robot/dd2419_ws/devel/./cmake.lock
+/home/robot/dd2419_ws/devel/.private/master/share/master/cmake/masterConfig-version.cmake /home/robot/dd2419_ws/devel/share/master/cmake/masterConfig-version.cmake
+/home/robot/dd2419_ws/devel/.private/master/share/master/cmake/masterConfig.cmake /home/robot/dd2419_ws/devel/share/master/cmake/masterConfig.cmake
+/home/robot/dd2419_ws/devel/.private/master/lib/pkgconfig/master.pc /home/robot/dd2419_ws/devel/lib/pkgconfig/master.pc

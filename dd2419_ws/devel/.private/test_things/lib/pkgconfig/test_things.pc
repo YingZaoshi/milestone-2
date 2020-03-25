@@ -1,0 +1,8 @@
+prefix=/home/robot/dd2419_ws/devel/.private/test_things
+
+Name: test_things
+Description: Description of test_things
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
